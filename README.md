@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm a 17-Year-Old Student 👨‍💻
+## 👋 Hi there! 👨‍💻
 
 <!--
 **finn4107/finn4107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
