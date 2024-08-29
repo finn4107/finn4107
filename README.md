@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm currently a student at IMS in Basel. 🚀 I'm 
 
 Here's a quick overview of my skills:
 
-Python 🐍
-Java ☕
-JavaScript 🌐
-PHP 🖥️
-MySQL 💾
-HTML/CSS 🎨
+- Python 🐍
+- Java ☕
+- JavaScript 🌐
+- PHP 🖥️
+- MySQL 💾
+- HTML/CSS 🎨
 
 Feel free to explore my repositories and projects. Let's code something amazing together! 💻✨
