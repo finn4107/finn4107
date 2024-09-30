@@ -26,4 +26,4 @@ Here's a quick overview of my skills:
 - MySQL 💾
 - HTML/CSS 🎨
 
-Feel free to explore my repositories and projects. Let's code something amazing together! 💻✨
+Feel free to explore my repositories and projects. 💻✨
