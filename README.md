@@ -19,7 +19,7 @@ I'm currently a student at IMS in Basel. 🚀 I'm passionate about coding and lo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn4107&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-<img src="https://raw.githubusercontent.com/finn4107/finn4107/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouzo/maurodesouzo/output/snake.svg" alt="Snake animation" />
 
 # 🌍 Visitor Count:
 ![Visitor Count](https://visitcount.itsvg.in/api?id=finn4107&icon=0&color=0)
