@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm currently a student at IMS in Basel. 🚀 I'm 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn4107&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
+### 🌍 Visitor Count:
+![Visitor Count](https://visitcount.itsvg.in/api?id=finn4107&icon=0&color=0)
 
 
