@@ -1,5 +1,6 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+Profile+and+Projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
 I'm currently a student at IMS in Basel. 🚀 I'm passionate about coding and love working with various programming languages.<br><br>Feel free to explore my repositories and projects. 💻
 
 
